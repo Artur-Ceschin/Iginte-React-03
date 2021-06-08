@@ -61,7 +61,7 @@ $ yarn test
 
 This project is under license from MIT. For more details, see the [LICENSE](./LICENSE.md) file.
 
-### Autor
+### Author
 ---
 
 Made with ❤️ by Artur Ceschin 👋🏽 Entre em contato!
