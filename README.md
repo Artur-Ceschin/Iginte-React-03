@@ -64,7 +64,7 @@ This project is under license from MIT. For more details, see the [LICENSE](./LI
 ### Author
 ---
 
-Made with ❤️ by Artur Ceschin 👋🏽 Entre em contato!
+Made with ❤️ by Artur Ceschin 👋🏽 Please fell free to contact me!
 <br/>
 [![Linkedin Badge](https://img.shields.io/badge/-Artur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/artur-peres-ceschin-programador/)](https://www.linkedin.com/in/artur-peres-ceschin-programador/) 
 [![Gmail Badge](https://img.shields.io/badge/-artur.ceschin@.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:artur.ceschin@gmail.com)](mailto:artur.ceschin@gmail.com)
